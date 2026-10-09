@@ -141,6 +141,7 @@ body {
     text-transform: capitalize;
     position: absolute;
     bottom: 28%;
+    padding-left: 10px;
 }
 
 .category {
@@ -148,6 +149,7 @@ body {
     bottom: 20%;
     font-weight: 500;
     text-transform: capitalize;
+    padding-left: 10px;
 }
 
 .color {
@@ -155,6 +157,7 @@ body {
     bottom: 15%;
     font-weight: 500;
     text-transform: capitalize;
+    padding-left: 10px;
 }
 
 .price {
@@ -163,4 +166,6 @@ body {
     bottom: 5%;
     font-weight: 600;
     text-transform: capitalize;
+    padding-left: 10px;
+
 }
